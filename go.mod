@@ -184,4 +184,5 @@ require (
 	modernc.org/golex v1.0.1 // indirect
 	modernc.org/lex v1.0.1 // indirect
 	modernc.org/lexer v1.0.2 // indirect
+	modernc.org/mathutil v1.1.1 // indirect
 )
