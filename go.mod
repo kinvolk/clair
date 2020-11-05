@@ -47,6 +47,7 @@ require (
 	github.com/dsnet/golib v0.0.0-20200723050859-c110804dfa93 // indirect
 	github.com/emicklei/go-restful v2.14.3+incompatible // indirect
 	github.com/envoyproxy/go-control-plane v0.9.7 // indirect
+	github.com/envoyproxy/protoc-gen-validate v0.4.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
@@ -54,10 +55,12 @@ require (
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
 	github.com/google/uuid v1.1.2
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
+	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/jackc/pgx/v4 v4.7.2
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/compress v1.10.11
+	github.com/lyft/protoc-gen-star v0.5.2 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
@@ -67,6 +70,7 @@ require (
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
 	github.com/rs/zerolog v1.16.0
 	github.com/sirupsen/logrus v1.7.0 // indirect
+	github.com/spf13/afero v1.4.1 // indirect
 	github.com/streadway/amqp v1.0.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
