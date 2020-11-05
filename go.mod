@@ -54,6 +54,7 @@ require (
 	github.com/go-logr/logr v0.3.0 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-openapi/jsonreference v0.19.4 // indirect
+	github.com/go-openapi/spec v0.19.12 // indirect
 	github.com/go-openapi/swag v0.19.11 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
