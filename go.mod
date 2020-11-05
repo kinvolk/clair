@@ -67,6 +67,7 @@ require (
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
 	github.com/golangci/golangci-lint v1.32.2 // indirect
+	github.com/golangci/misspell v0.3.5 // indirect
 	github.com/google/go-cmp v0.5.2
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
 	github.com/google/uuid v1.1.2
