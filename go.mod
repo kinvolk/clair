@@ -76,6 +76,7 @@ require (
 	github.com/gostaticanalysis/analysisutil v0.4.1 // indirect
 	github.com/gosuri/uilive v0.0.4 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
+	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2 // indirect
 	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/jackc/pgx/v4 v4.7.2
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
