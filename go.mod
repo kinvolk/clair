@@ -150,6 +150,7 @@ require (
 	github.com/valyala/fasthttp v1.17.0 // indirect
 	github.com/willf/bitset v1.1.11 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
+	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
 	go.opentelemetry.io/otel v0.2.1
 	go.opentelemetry.io/otel/exporter/metric/prometheus v0.2.2-0.20200111012159-d85178b63b15
 	go.opentelemetry.io/otel/exporter/trace/jaeger v0.2.1
