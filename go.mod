@@ -83,6 +83,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hooklift/assert v0.1.0 // indirect
 	github.com/iancoleman/strcase v0.1.2 // indirect
+	github.com/jackc/pgconn v1.7.2 // indirect
 	github.com/jackc/pgx/v4 v4.7.2
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
 	github.com/json-iterator/go v1.1.10 // indirect
@@ -109,6 +110,7 @@ require (
 	go.opentelemetry.io/otel v0.2.1
 	go.opentelemetry.io/otel/exporter/metric/prometheus v0.2.2-0.20200111012159-d85178b63b15
 	go.opentelemetry.io/otel/exporter/trace/jaeger v0.2.1
+	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 // indirect
 	golang.org/x/net v0.0.0-20201031054903-ff519b6c9102 // indirect
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20201101102859-da207088b7d1 // indirect
