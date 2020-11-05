@@ -110,6 +110,7 @@ require (
 	github.com/moby/sys/mount v0.1.1 // indirect
 	github.com/moby/sys/mountinfo v0.4.0 // indirect
 	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
+	github.com/mozilla/tls-observatory v0.0.0-20201102190301-66a9060ef096 // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
 	github.com/prometheus/procfs v0.0.8 // indirect
 	github.com/quay/claircore v0.1.15
