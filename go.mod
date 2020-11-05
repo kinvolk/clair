@@ -181,4 +181,7 @@ require (
 	k8s.io/client-go v11.0.0+incompatible // indirect
 	k8s.io/gengo v0.0.0-20201102161653-419f1598dd9a // indirect
 	k8s.io/kube-openapi v0.0.0-20201105114334-e58175ef84ae // indirect
+	modernc.org/golex v1.0.1 // indirect
+	modernc.org/lex v1.0.1 // indirect
+	modernc.org/lexer v1.0.2 // indirect
 )
