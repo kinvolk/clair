@@ -113,7 +113,7 @@ require (
 	github.com/mozilla/tls-observatory v0.0.0-20201102190301-66a9060ef096 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
-	github.com/prometheus/procfs v0.0.8 // indirect
+	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/quay/claircore v0.1.15
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
 	github.com/rs/zerolog v1.16.0
