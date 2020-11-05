@@ -16,6 +16,7 @@ require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/antchfx/xmlquery v1.3.3 // indirect
+	github.com/aws/aws-sdk-go v1.35.22 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
