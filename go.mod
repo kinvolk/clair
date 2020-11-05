@@ -52,6 +52,7 @@ require (
 	github.com/fsouza/go-dockerclient v1.6.6 // indirect
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logr/logr v0.3.0 // indirect
+	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
