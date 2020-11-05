@@ -96,6 +96,7 @@ require (
 	github.com/klauspost/compress v1.11.2
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
+	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f // indirect
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/lib/pq v1.8.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
@@ -122,7 +123,7 @@ require (
 	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/quasilyte/go-consistent v0.0.0-20200404105227-766526bf1e96 // indirect
-	github.com/quay/claircore v0.1.15
+	github.com/quay/claircore v1.0.5
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
 	github.com/rs/zerolog v1.16.0
 	github.com/sirupsen/logrus v1.7.0 // indirect
