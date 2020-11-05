@@ -231,6 +231,8 @@ github.com/docker-slim/uilive v0.0.2/go.mod h1:n5VcxYe9p5VS8pc1Gf5/mqInW5Nol/Vgt
 github.com/docker-slim/uiprogress v0.0.0-20190505193231-9d4396e6d40b/go.mod h1:Wi9VCh32E5k63sSm5e301I84jh77Ee63O+WlgXamVX0=
 github.com/docker/cli v0.0.0-20191017083524-a8ff7f821017 h1:2HQmlpI3yI9deH18Q6xiSOIjXD4sLI55Y/gfpa8/558=
 github.com/docker/cli v0.0.0-20191017083524-a8ff7f821017/go.mod h1:JLrzqnKDaYBop7H2jaqPtU4hHvMKP+vjCwu2uszcLI8=
+github.com/docker/cli v20.10.0-beta1+incompatible h1:K4hmHhtBIAZ8BIcvjtk3Fi63o2UlGp7D4Y1w9fLI7rc=
+github.com/docker/cli v20.10.0-beta1+incompatible/go.mod h1:JLrzqnKDaYBop7H2jaqPtU4hHvMKP+vjCwu2uszcLI8=
 github.com/docker/distribution v2.6.0-rc.1.0.20180327202408-83389a148052+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/docker/distribution v2.7.1+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/docker/docker v1.4.2-0.20190924003213-a8608b5b67c7/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
