@@ -70,6 +70,7 @@ require (
 	github.com/golangci/misspell v0.3.5 // indirect
 	github.com/google/go-cmp v0.5.2
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
+	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/iancoleman/strcase v0.1.2 // indirect
