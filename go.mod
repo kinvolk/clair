@@ -116,6 +116,7 @@ require (
 	github.com/onsi/ginkgo v1.14.2 // indirect
 	github.com/opencontainers/runtime-tools v0.9.0 // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
+	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/quay/claircore v0.1.15
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
