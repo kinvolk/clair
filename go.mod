@@ -179,4 +179,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
 	k8s.io/apimachinery v0.19.3 // indirect
 	k8s.io/client-go v11.0.0+incompatible // indirect
+	k8s.io/gengo v0.0.0-20201102161653-419f1598dd9a // indirect
 )
