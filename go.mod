@@ -101,6 +101,7 @@ require (
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
 	github.com/magiconair/properties v1.8.4 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
+	github.com/matoous/godox v0.0.0-20200801072554-4fb83dc2941e // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/moby/sys/mount v0.1.1 // indirect
