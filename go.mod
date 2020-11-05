@@ -121,6 +121,7 @@ require (
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/prometheus/tsdb v0.10.0 // indirect
+	github.com/quasilyte/go-consistent v0.0.0-20200404105227-766526bf1e96 // indirect
 	github.com/quay/claircore v0.1.15
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
 	github.com/rs/zerolog v1.16.0
