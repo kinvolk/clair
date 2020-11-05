@@ -66,6 +66,7 @@ require (
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
+	github.com/golang/snappy v0.0.2 // indirect
 	github.com/golangci/golangci-lint v1.32.2 // indirect
 	github.com/golangci/misspell v0.3.5 // indirect
 	github.com/google/go-cmp v0.5.2
@@ -119,6 +120,7 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/prometheus/client_golang v1.8.0 // indirect
+	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/quay/claircore v0.1.15
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
 	github.com/rs/zerolog v1.16.0
