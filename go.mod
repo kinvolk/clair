@@ -40,6 +40,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.1.0 // indirect
 	github.com/creack/pty v1.1.11 // indirect
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245 // indirect
+	github.com/docker-slim/docker-slim v0.0.0-20201105011348-dd210b6af8c4 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
