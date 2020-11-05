@@ -128,6 +128,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	github.com/rogpeppe/go-internal v1.6.2 // indirect
 	github.com/rs/zerolog v1.20.0
+	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/spf13/afero v1.4.1 // indirect
 	github.com/streadway/amqp v1.0.0
