@@ -49,6 +49,7 @@ require (
 	github.com/envoyproxy/go-control-plane v0.9.7 // indirect
 	github.com/envoyproxy/protoc-gen-validate v0.4.1 // indirect
 	github.com/fatih/color v1.10.0 // indirect
+	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
