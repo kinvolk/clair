@@ -17,6 +17,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.6.0 // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
+	github.com/andybalholm/brotli v1.0.1 // indirect
 	github.com/antchfx/xmlquery v1.3.3 // indirect
 	github.com/aws/aws-sdk-go v1.35.22 // indirect
 	github.com/benbjohnson/clock v1.0.3 // indirect
@@ -146,6 +147,7 @@ require (
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/urfave/cli v1.22.5 // indirect
 	github.com/urfave/cli/v2 v2.3.0
+	github.com/valyala/fasthttp v1.17.0 // indirect
 	github.com/willf/bitset v1.1.11 // indirect
 	go.opentelemetry.io/otel v0.2.1
 	go.opentelemetry.io/otel/exporter/metric/prometheus v0.2.2-0.20200111012159-d85178b63b15
