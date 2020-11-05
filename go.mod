@@ -23,6 +23,7 @@ require (
 	github.com/bmatcuk/doublestar v1.3.3 // indirect
 	github.com/bombsimon/wsl v1.2.8 // indirect
 	github.com/c-bata/go-prompt v0.2.5 // indirect
+	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/golang/mock v1.4.4 // indirect
