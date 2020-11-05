@@ -85,7 +85,7 @@ require (
 	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/jackc/pgconn v1.7.2 // indirect
 	github.com/jackc/pgtype v1.6.1 // indirect
-	github.com/jackc/pgx/v4 v4.7.2
+	github.com/jackc/pgx/v4 v4.9.2
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/compress v1.11.0
