@@ -169,6 +169,7 @@ require (
 	golang.org/x/text v0.3.4 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	golang.org/x/tools v0.0.0-20201105173854-bc9fc8d8c4bc // indirect
+	gonum.org/v1/gonum v0.8.1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201105153401-9d023cd09d72 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
