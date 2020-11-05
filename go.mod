@@ -50,6 +50,7 @@ require (
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/fsouza/go-dockerclient v1.6.6 // indirect
+	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
@@ -69,7 +70,6 @@ require (
 	github.com/moby/sys/mountinfo v0.4.0 // indirect
 	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
-	github.com/prometheus/client_golang v0.9.4 // indirect
 	github.com/prometheus/procfs v0.0.8 // indirect
 	github.com/quay/claircore v0.1.15
 	github.com/remind101/migrate v0.0.0-20170729031349-52c1edff7319
