@@ -92,7 +92,7 @@ require (
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/kisielk/errcheck v1.4.0 // indirect
-	github.com/klauspost/compress v1.11.0
+	github.com/klauspost/compress v1.11.2
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
