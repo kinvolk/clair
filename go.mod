@@ -46,6 +46,7 @@ require (
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/dsnet/golib v0.0.0-20200723050859-c110804dfa93 // indirect
 	github.com/emicklei/go-restful v2.14.3+incompatible // indirect
+	github.com/envoyproxy/go-control-plane v0.9.7 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
