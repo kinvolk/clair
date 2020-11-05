@@ -42,7 +42,6 @@ require (
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245 // indirect
 	github.com/docker-slim/docker-slim v0.0.0-20201105011348-dd210b6af8c4 // indirect
 	github.com/docker/cli v20.10.0-beta1+incompatible // indirect
-	github.com/docker/docker v1.13.1 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/dsnet/golib v0.0.0-20200723050859-c110804dfa93 // indirect
 	github.com/emicklei/go-restful v2.14.3+incompatible // indirect
@@ -50,6 +49,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v0.4.1 // indirect
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
+	github.com/fsouza/go-dockerclient v1.6.6 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
@@ -65,6 +65,9 @@ require (
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
+	github.com/moby/sys/mount v0.1.1 // indirect
+	github.com/moby/sys/mountinfo v0.4.0 // indirect
+	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
 	github.com/prometheus/client_golang v0.9.4 // indirect
 	github.com/prometheus/procfs v0.0.8 // indirect
