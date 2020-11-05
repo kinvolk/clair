@@ -106,6 +106,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.4 // indirect
 	github.com/mattn/goveralls v0.0.7 // indirect
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.3.0 // indirect
+	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/moby/sys/mount v0.1.1 // indirect
 	github.com/moby/sys/mountinfo v0.4.0 // indirect
 	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
