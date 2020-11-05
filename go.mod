@@ -142,6 +142,7 @@ require (
 	github.com/timakin/bodyclose v0.0.0-20200424151742-cb6215831a94 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
+	github.com/ugorji/go v1.1.13 // indirect
 	github.com/urfave/cli/v2 v2.2.0
 	github.com/willf/bitset v1.1.11 // indirect
 	go.opentelemetry.io/otel v0.2.1
