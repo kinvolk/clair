@@ -53,6 +53,8 @@ require (
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logr/logr v0.3.0 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
+	github.com/go-openapi/jsonreference v0.19.4 // indirect
+	github.com/go-openapi/swag v0.19.11 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
@@ -66,6 +68,7 @@ require (
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/compress v1.10.11
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
+	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/moby/sys/mount v0.1.1 // indirect
