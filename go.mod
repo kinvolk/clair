@@ -131,6 +131,7 @@ require (
 	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 // indirect
 	github.com/shirou/gopsutil v3.20.10+incompatible // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
+	github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/spf13/afero v1.4.1 // indirect
 	github.com/streadway/amqp v1.0.0
