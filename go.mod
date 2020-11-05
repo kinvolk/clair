@@ -72,6 +72,7 @@ require (
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.1.2
+	github.com/googleapis/gnostic v0.5.3 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/jackc/pgx/v4 v4.7.2
@@ -108,5 +109,5 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201105153401-9d023cd09d72 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.1
-	gopkg.in/yaml.v3 v3.0.0-20200506231410-2ff61e1afc86
+	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
 )
