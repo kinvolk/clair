@@ -99,6 +99,7 @@ require (
 	github.com/lib/pq v1.8.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
+	github.com/magiconair/properties v1.8.4 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
