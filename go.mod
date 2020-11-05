@@ -74,6 +74,7 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/googleapis/gnostic v0.5.3 // indirect
 	github.com/gostaticanalysis/analysisutil v0.4.1 // indirect
+	github.com/gosuri/uilive v0.0.4 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/jackc/pgx/v4 v4.7.2
