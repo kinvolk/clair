@@ -60,6 +60,7 @@ require (
 	github.com/go-stomp/stomp v2.0.8+incompatible
 	github.com/go-toolsmith/astinfo v1.0.0 // indirect
 	github.com/go-toolsmith/pkgload v1.0.1 // indirect
+	github.com/go-toolsmith/typep v1.0.2 // indirect
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
 	github.com/google/go-cmp v0.5.2
