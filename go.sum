@@ -220,6 +220,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/dgryski/go-sip13 v0.0.0-20181026042036-e10d5fee7954/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
+github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245 h1:9cOfvEwjQxdwKuNDTQSaMKNRvwKwgZG+U4HrjeRKHso=
+github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
 github.com/docker-slim/docker-slim v0.0.0-20200524075151-79490f5f1cde h1:f/tsNNU3tRqH1UmESZ1gKYNdrrU3yqo1L1neY/VXwM0=
 github.com/docker-slim/docker-slim v0.0.0-20200524075151-79490f5f1cde/go.mod h1:BocjCnWMUU97bDXqexVL+4Lyc96vJbXNpWvKjSIHmWU=
 github.com/docker-slim/go-update v0.0.0-20190422071557-ed40247aff59/go.mod h1:5aopGwOcYJdRzOEE11PpdRxki6gwpyt3jHq+5qZ7jK0=
