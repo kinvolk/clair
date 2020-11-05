@@ -22,6 +22,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/bmatcuk/doublestar v1.3.3 // indirect
 	github.com/bombsimon/wsl v1.2.8 // indirect
+	github.com/c-bata/go-prompt v0.2.5 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/golang/mock v1.4.4 // indirect
@@ -32,6 +33,7 @@ require (
 	github.com/jackc/pgx/v4 v4.7.2
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/klauspost/compress v1.10.11
+	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/prometheus/client_golang v0.9.4 // indirect
 	github.com/prometheus/procfs v0.0.8 // indirect
