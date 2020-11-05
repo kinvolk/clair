@@ -133,6 +133,7 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
+	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.4.1 // indirect
 	github.com/streadway/amqp v1.0.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
