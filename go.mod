@@ -21,6 +21,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/bmatcuk/doublestar v1.3.3 // indirect
+	github.com/bombsimon/wsl v1.2.8 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/golang/mock v1.4.4 // indirect
