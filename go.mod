@@ -112,6 +112,8 @@ require (
 	github.com/moby/term v0.0.0-20201101162038-25d840ce174a // indirect
 	github.com/mozilla/tls-observatory v0.0.0-20201102190301-66a9060ef096 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
+	github.com/nxadm/tail v1.4.5 // indirect
+	github.com/onsi/ginkgo v1.14.2 // indirect
 	github.com/opencontainers/selinux v1.6.0 // indirect
 	github.com/prometheus/client_golang v1.8.0 // indirect
 	github.com/quay/claircore v0.1.15
