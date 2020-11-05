@@ -152,6 +152,7 @@ require (
 	golang.org/x/tools v0.0.0-20201105173854-bc9fc8d8c4bc // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201105153401-9d023cd09d72 // indirect
+	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.1
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
 )
