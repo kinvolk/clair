@@ -4,11 +4,12 @@ go 1.13
 
 require (
 	bazil.org/fuse v0.0.0-20200524192727-fb710f7dfd05 // indirect
+	cloud.google.com/go v0.71.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/docker/docker v1.13.1 // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/golang/mock v1.4.4 // indirect
-	github.com/google/go-cmp v0.4.0
+	github.com/google/go-cmp v0.5.2
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
 	github.com/google/uuid v1.1.2
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
@@ -27,9 +28,9 @@ require (
 	go.opentelemetry.io/otel v0.2.1
 	go.opentelemetry.io/otel/exporter/metric/prometheus v0.2.2-0.20200111012159-d85178b63b15
 	go.opentelemetry.io/otel/exporter/trace/jaeger v0.2.1
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20201101102859-da207088b7d1 // indirect
-	golang.org/x/tools v0.0.0-20200928182047-19e03678916f // indirect
+	golang.org/x/tools v0.0.0-20201105173854-bc9fc8d8c4bc // indirect
 	gopkg.in/square/go-jose.v2 v2.4.1
 	gopkg.in/yaml.v3 v3.0.0-20200506231410-2ff61e1afc86
 )
