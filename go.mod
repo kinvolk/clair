@@ -90,6 +90,7 @@ require (
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
+	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/klauspost/compress v1.11.0
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
