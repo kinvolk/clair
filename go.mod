@@ -57,7 +57,7 @@ require (
 	github.com/go-openapi/spec v0.19.12 // indirect
 	github.com/go-openapi/swag v0.19.11 // indirect
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
-	github.com/go-stomp/stomp v2.0.6+incompatible
+	github.com/go-stomp/stomp v2.0.8+incompatible
 	github.com/gogo/googleapis v1.4.0 // indirect
 	github.com/golang/mock v1.4.4 // indirect
 	github.com/google/go-cmp v0.5.2
